@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SudhirBisen
-- 👀 I’m interested in project management and bussiness data analysis. 
-- 🌱 I’m currently learning machine learning and AI
+- 👀 I’m interested in deep and machine learning and bussiness data analysis. 
+- 🌱 I’m currently learning machine learning and Deep Leaning
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me --  dok.sud@gmail.com
 
